@@ -16,8 +16,8 @@ build
 *.iml
 **/bin
 **/target
-**/.project
-**/.classpath
+#**/.project
+#**/.classpath
 **/.settings
 **/.sts4-cache
 **/.gradle
